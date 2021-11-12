@@ -46,7 +46,20 @@
      "token": "ASTR",
      "description": "A Multi Chain Polkadot DApp Hub",
      "website": "https://astar.network/",
-     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png"
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png",
+     "flow": {
+               "name": "astar",
+               "data": {
+                   "devApiUrl": "",
+                   "prodApiUrl": "",
+                   "devApiKey": "",
+                   "prodApiKey": "",
+                   "termsUrl": "",
+                   "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
+                   "bonusRate": 0,
+                   "referralRate": 0.01
+               }
+           }
    },
   {
     "paraid": "2013",
@@ -79,5 +92,21 @@
     "description": "An interoperable privacy layer for the Polkadot ecosystem",
     "website": "https://manta.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/manta.png"
+  },
+  {
+    "paraid": "2018",
+    "name": "SubDAO",
+    "token": "GOV",
+    "description": "A Polkadot-based DAO management platform",
+    "website": "https://www.subdao.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subdao.png"
+  },
+  {
+    "paraid": "2017",
+    "name": "SubGame Gamma",
+    "token": "GSGB",
+    "description": "A public chain focusing on cross-chain interoperability for various applications including gaming",
+    "website": "https://www.subgame.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subgame.png"
   }
 ]
