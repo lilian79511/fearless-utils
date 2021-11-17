@@ -9,8 +9,8 @@
     "flow": {
       "name": "",
       "data": {
-        "devApiUrl": "https://crowdloan.aca-dev.network",
-        "prodApiUrl": "https://crowdloan.aca-api.network",
+        "devApiUrl": "",
+        "prodApiUrl": "",
         "devApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0MDg1OTg0fQ.3joSiklSRDNrCtVMQc6ReRnEgtp65QOzRt8IPA4bMtw",
         "prodApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0Nzg2MDc3fQ.zwz3BSD68AKjo1BySkzrh7SfzO8yF-8YBhgiKZyE5lQ",
         "bonusUrl": "https://wiki.acala.network/acala/acala-crowdloan/crowdloan-rewards",
